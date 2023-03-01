@@ -17,16 +17,16 @@ dependencies:
   hive: ^2.2.3
   hive_flutter: ^1.1.0
   supabase_flutter: ^0.3.3
-  # dependencies_module:   
-  #   git:
-  #     url: https://github.com/Store-preview-creator/dependencies_module.git
-  #     ref: develop
+  logger: ^1.1.0
+  dependencies_module:   
+    git:
+      url: https://github.com/Store-preview-creator/dependencies_module.git
+      ref: develop
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
-  logger: ^1.1.0
   
 
 flutter:
