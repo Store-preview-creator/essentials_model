@@ -1,5 +1,7 @@
 library essentials_model;
 
+export 'package:supabase_flutter/supabase_flutter.dart';
+
 export 'src/components/alert_dialog_pattern.dart';
 export 'src/components/animated_route.dart';
 export 'src/components/button_pattern.dart';
