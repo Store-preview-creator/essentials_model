@@ -1,4 +1,4 @@
 class ApiConnect {
-  static const String url = '';
-  static const String anonKey = '';
+  static String url = '';
+  static String anonKey = '';
 }
